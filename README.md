@@ -5,7 +5,7 @@ Building functional and responsive web applications with a focus on clean logic 
 
 | Project | Key Tech | Live Demo |
 | :--- | :--- | :--- |
-| **🎬 Movie Discovery** | API Fetching, LocalStorage, CSS Flexbox | [Live Link](https://yourusername.github.io/movie-app/) |
+| **🎬 Movie Discovery** | API Fetching, LocalStorage, CSS Flexbox | [Live Link](https://cornelius-kisoi.github.io/movie-discovery-app/) |
 | **💰 WealthWatch** | Data Processing, CSV Export, Progress Logic | [Live Link](https://yourusername.github.io/wealth-watch/) |
 
 ### 🛠️ My Toolbox
