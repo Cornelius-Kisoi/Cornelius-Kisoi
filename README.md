@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cornelius! 👋
+Building functional and responsive web applications with a focus on clean logic and user experience.
 
-<!--
-**Cornelius-Kisoi/Cornelius-Kisoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+| Project | Key Tech | Live Demo |
+| :--- | :--- | :--- |
+| **🎬 Movie Discovery** | API Fetching, LocalStorage, CSS Flexbox | [Live Link](https://yourusername.github.io/movie-app/) |
+| **💰 WealthWatch** | Data Processing, CSV Export, Progress Logic | [Live Link](https://yourusername.github.io/wealth-watch/) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools
+- **Logic:** Async/Await, Array Methods (.reduce, .filter, .map), DOM Manipulation
