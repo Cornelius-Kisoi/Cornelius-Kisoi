@@ -1,14 +1,45 @@
-# Hi, I'm Cornelius! 👋
-Building functional and responsive web applications with a focus on clean logic and user experience.
+# Hi there, I am Cornelius👋
 
-## 🚀 Featured Projects
+I'm a **Frontend Developer** passionate about building clean, functional, and data-driven web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-| Project | Key Tech | Live Demo |
-| :--- | :--- | :--- |
-| **🎬 Movie Discovery** | API Fetching, LocalStorage, CSS Flexbox | [Live Link](https://cornelius-kisoi.github.io/movie-discovery-app/) |
-| **💰 WealthWatch** | Data Processing, CSV Export, Progress Logic | [Live Link](https://cornelius-kisoi.github.io/Personal-Expense-Tracker/) |
+---
 
-### 🛠️ My Toolbox
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools
-- **Logic:** Async/Await, Array Methods (.reduce, .filter, .map), DOM Manipulation
+### 🚀 Featured Projects
+
+#### 🌤️ [SkyCast Weather Dashboard](Link-to-repo)
+**Modern Weather & Environment Tracker**
+- Integrated **OpenWeatherMap API** (Current, Forecast, & Air Quality).
+- Visualized 5-day trends using **Chart.js**.
+- Designed with a **Glassmorphism** UI and dynamic theming.
+- *Tech: Vanilla JS, CSS Grid, Chart.js, Geolocation API.*
+
+#### 💰 [WealthWatch](Link-to-repo)
+**Personal Finance Tracker**
+- Built a custom state-management system to handle income/expenses.
+- Implemented **CSV Export** and **LocalStorage** for data persistence.
+- *Tech: JavaScript (ES6), LocalStorage, CSS Custom Properties.*
+
+#### 🎬 [MovieVerse](Link-to-repo)
+**Interactive Film Discovery App**
+- Built a real-time search engine using the **OMDb API**.
+- Implemented dynamic DOM rendering and modal-based detail views.
+- *Tech: JavaScript, Fetch API, HTML5/CSS3.*
+
+---
+
+### 💻 My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+---
+
+### 📫 How to reach me:
+- **LinkedIn:** [your-profile-link]
+- **Portfolio:** [your-github-pages-link]
+- **Email:** [your-email]
+
+---
