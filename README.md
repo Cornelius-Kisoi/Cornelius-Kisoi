@@ -39,7 +39,7 @@ I'm a **Frontend Developer** passionate about building clean, functional, and da
 
 ### 📫 How to reach me:
 - **LinkedIn:** www.linkedin.com/in/cornelius-kisoi-264b0b19a
-- **Portfolio:** [your-github-pages-link]
+- **Portfolio:** [https://github.com/Cornelius-Kisoi]
 - **Email:** kisoicornelius@gmail.com
 
 ---
