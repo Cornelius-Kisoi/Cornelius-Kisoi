@@ -6,20 +6,20 @@ I'm a **Frontend Developer** passionate about building clean, functional, and da
 
 ### 🚀 Featured Projects
 
-#### 🌤️ [SkyCast Weather Dashboard](Link-to-repo)
+#### 🌤️ [SkyCast Weather Dashboard](https://cornelius-kisoi.github.io/Weather-Environment-Tracker/)
 **Modern Weather & Environment Tracker**
 - Integrated **OpenWeatherMap API** (Current, Forecast, & Air Quality).
 - Visualized 5-day trends using **Chart.js**.
 - Designed with a **Glassmorphism** UI and dynamic theming.
 - *Tech: Vanilla JS, CSS Grid, Chart.js, Geolocation API.*
 
-#### 💰 [WealthWatch](Link-to-repo)
+#### 💰 [WealthWatch](https://cornelius-kisoi.github.io/Personal-Expense-Tracker/)
 **Personal Finance Tracker**
 - Built a custom state-management system to handle income/expenses.
 - Implemented **CSV Export** and **LocalStorage** for data persistence.
 - *Tech: JavaScript (ES6), LocalStorage, CSS Custom Properties.*
 
-#### 🎬 [MovieVerse](Link-to-repo)
+#### 🎬 [MovieVerse](https://cornelius-kisoi.github.io/movie-discovery-app/)
 **Interactive Film Discovery App**
 - Built a real-time search engine using the **OMDb API**.
 - Implemented dynamic DOM rendering and modal-based detail views.
@@ -38,8 +38,8 @@ I'm a **Frontend Developer** passionate about building clean, functional, and da
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [your-profile-link]
+- **LinkedIn:** www.linkedin.com/in/cornelius-kisoi-264b0b19a
 - **Portfolio:** [your-github-pages-link]
-- **Email:** [your-email]
+- **Email:** kisoicornelius@gmail.com
 
 ---
